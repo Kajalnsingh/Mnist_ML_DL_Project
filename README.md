@@ -1,4 +1,4 @@
-# Mnist_ML_DL_Project
+# Mnist_Digit_Classification
 📌 Overview
 This project demonstrates the power of both traditional machine learning algorithms and deep learning models in recognizing handwritten digits using the classic MNIST dataset. Implemented in Google Colab, it covers everything from data preprocessing to model evaluation — providing a smooth learning experience for both beginners and intermediate practitioners.
 
